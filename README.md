@@ -7,9 +7,9 @@ Checklist Hari 1
 | Install Python               | ☑      |
 | Install VS Code + extensions | ☑      |
 | Install Git                  | ☑      |
-| Buat folder proyek           | ☐      |
-| Bikin virtual environment    | ☐      |
-| Bikin script `main.py`       | ☐      |
-| Inisialisasi Git repository  | ☐      |
-| Buat `.gitignore`            | ☐      |
-| Buat `README.md`             | ☐      |
+| Buat folder proyek           | ☑      |
+| Bikin virtual environment    | ☑      |
+| Bikin script `main.py`       | ☑      |
+| Inisialisasi Git repository  | ☑      |
+| Buat `.gitignore`            | ☑      |
+| Buat `README.md`             | ☑      |
