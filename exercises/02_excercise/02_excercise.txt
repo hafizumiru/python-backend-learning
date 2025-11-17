@@ -1,0 +1,26 @@
+Buat file: day3_exercises.py
+
+1.  Buat fungsi register_user(**data) menerima data seperti:
+    register_user(name=“andi”, email=“a@gmail.com”, age=20)
+
+    return dictionary dengan key: id (random 6 digit) name email age
+
+    Contoh output: { “id”: 392104, “name”: “andi”, “email”:
+    “a@gmail.com”, “age”: 20 }
+
+2.  Buat list comprehension: 1–50, hanya bilangan yang habis dibagi 3
+
+3.  Buat dictionary comprehension dari list nama berikut: names =
+    [“miru”, “andi”, “budi”, “cici”] Hasil: {“miru”: 4, “andi”: 4, …}
+
+4.  Buat fungsi calculate_total(*prices) Return jumlah semua harga.
+
+5.  Buat module math_utils.py berisi fungsi: add(a, b) subtract(a, b)
+    multiply(a, b) divide(a, b) (tangani divide by zero) Import dan
+    pakai di main.py.
+
+6.  Buat program filtering: users = [ {“name”: “amir”, “age”: 17},
+    {“name”: “budi”, “age”: 20}, {“name”: “cici”, “age”: 15}, {“name”:
+    “dedi”, “age”: 30}] Gunakan list comprehension untuk mengambil hanya
+    user yang umur ≥ 18. Output contoh: [{‘name’: ‘budi’, ‘age’: 20},
+    {‘name’: ‘dedi’, ‘age’: 30}]

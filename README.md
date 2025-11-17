@@ -24,4 +24,14 @@ Checklist Hari 2
 | Mengerti kontrol alur (if/for/while) | ☑      |	
 | Membuat & menggunakan fungsi	       | ☑      |
 | Basic error handling	               | ☑      |
-| Mengerjakan 10 soal latihan	       | ☐      |
+| Mengerjakan 10 soal latihan	       | ☑      |
+
+Checklist Hari 3    
+
+| Task                              | Status |
+|-----------------------------------|:------:|
+| Belajar args/kwargs				| ☑      |
+| Belajar lambda	                | ☑      |
+| Belajar list & dict comprehension	| ☑      |
+| Belajar modularisasi (import)	    | ☑      |
+| Menyelesaikan 6 latihan	        | ☑      |
